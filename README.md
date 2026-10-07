@@ -24,7 +24,7 @@
 
 # 👋 About Me
 
-I'm **N. Gamani Prasad**, a Computer Science graduate and Full Stack Developer focused on building practical web applications using **Java, Spring Boot, Python, Django, React, REST APIs, and MySQL**.
+I'm **N. Gamini Prasad**, a Computer Science graduate and Full Stack Developer focused on building practical web applications using **Java, Spring Boot, Python, Django, React, REST APIs, and MySQL**.
 
 I enjoy building backend systems, designing REST APIs, working with databases, implementing authentication and developing complete full-stack applications.
 
