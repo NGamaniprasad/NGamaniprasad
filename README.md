@@ -1,86 +1,140 @@
 <div align="center">
 
-# 👋 Hi, I'm **N. Gamani Prasad**
-
-### 💻 Java & Python Full Stack Developer
-
-**Spring Boot • Django • React • REST APIs • MySQL • GenAI**
-
-📍 **Bengaluru, India**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=N.%20Gamani%20Prasad&fontSize=45&fontAlignY=35&desc=Java%20%7C%20Python%20%7C%20Full%20Stack%20Developer&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <br>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Java+%7C+Spring+Boot+Developer;Python+%7C+Django+Developer;Full+Stack+Developer;REST+API+Developer;Exploring+GenAI+%7C+LLMs+%7C+RAG" />
+
+<br><br>
+
 <a href="https://prasad-full-stack-dev.netlify.app/">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Portfolio-2ea44f?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-00C853?style=for-the-badge"/>
 </a>
+&nbsp;
 <a href="https://github.com/NGamaniprasad">
-  <img src="https://img.shields.io/badge/GitHub-NGamaniprasad-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-NGamaniprasad-181717?style=for-the-badge&logo=github"/>
 </a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=NGamaniprasad&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
-I'm a **Computer Science graduate and Full Stack Developer** focused on building practical web applications using **Java, Python, Spring Boot, Django, React, REST APIs, and MySQL**.
+```java
+public class GamaniPrasad {
 
-I enjoy working on backend systems, APIs, databases, authentication, and full-stack applications while continuously improving my **DSA, system design, clean code, and production development skills**.
+    String role = "Full Stack Developer";
 
-I'm also exploring **Machine Learning, Generative AI, LLMs, RAG, embeddings, and vector databases**.
+    String[] primaryStack = {
+        "Java",
+        "Spring Boot",
+        "Python",
+        "Django",
+        "React",
+        "REST APIs",
+        "MySQL"
+    };
+
+    String[] interests = {
+        "Backend Development",
+        "Full Stack Development",
+        "System Design",
+        "Clean Code",
+        "Generative AI",
+        "LLMs",
+        "RAG"
+    };
+
+    String location = "Bengaluru, India";
+
+    String goal =
+        "Build reliable software and continuously improve.";
+
+}
+```
 
 ---
 
-## 🧰 Tech Stack
+# ⚡ What I Build
 
-### ☕ Java Development
+<table>
+<tr>
+<td width="33%" align="center">
 
-<p>
-<img src="https://img.shields.io/badge/Java-8-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-<img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge"/>
-</p>
+### ☕ Backend
 
-### 🐍 Python Development
+Spring Boot
+Django
+DRF
+REST APIs
+Hibernate
+JPA
+JWT
+MySQL
 
-<p>
-<img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/DRF-A30000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-</p>
+</td>
+
+<td width="33%" align="center">
 
 ### ⚛️ Frontend
 
+React
+JavaScript
+HTML
+CSS
+Vite
+Axios
+Responsive UI
+
+</td>
+
+<td width="33%" align="center">
+
+### 🤖 AI / ML
+
+Machine Learning
+Generative AI
+LLMs
+RAG
+Embeddings
+Vector Databases
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🛠️ Technology Arsenal
+
+### Languages
+
 <p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
 </p>
 
-### 🗄️ Database & Tools
+### Backend
 
 <p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=spring,django,fastapi,hibernate" />
 </p>
 
-### 🤖 AI / Machine Learning
+### Frontend
 
 <p>
-<img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-5C2D91?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Embeddings-0078D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Vector_Databases-00A67E?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=react,vite" />
+</p>
+
+### Database & Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,git,github,maven,postman,idea,pycharm" />
 </p>
 
 ---
@@ -89,136 +143,203 @@ I'm also exploring **Machine Learning, Generative AI, LLMs, RAG, embeddings, and
 
 <table>
 <tr>
+
 <td width="50%">
 
-### 💼 Employee Work Management System
+## 💼 Employee Work Management System
 
-Enterprise-style employee management platform.
+Enterprise-style full-stack employee management platform.
 
-**Tech Stack**
+**Stack**
 
-`Django` `DRF` `React` `MySQL` `JWT`
+`Python` `Django` `DRF` `React` `MySQL` `JWT`
 
-**Features**
+**Highlights**
 
-* 🔐 JWT Authentication
-* 👥 Admin & Employee Roles
-* 📋 Task Management
-* ⏱️ Attendance & Breaks
-* 💰 Salary & Bonus
-* 🔔 Notifications
-* 🔒 Role-based Permissions
+🔐 JWT Authentication
+👥 Admin / Employee Roles
+📋 Task Assignment
+⏱️ Attendance & Breaks
+💰 Salary & Bonus
+🔔 Notifications
+🔒 Role-based Permissions
 
 </td>
 
 <td width="50%">
 
-### 📋 Job Application Tracker
+## 📋 Job Application Tracker
 
-Full-stack application for managing job applications.
+Full-stack application for managing and tracking job applications.
 
-**Tech Stack**
+**Stack**
 
 `FastAPI` `React` `MySQL` `SQLAlchemy`
 
-**Features**
+**Highlights**
 
-* 📊 Dashboard Statistics
-* 📝 Application Tracking
-* 🎯 Interview Tracking
-* ✅ Selected / Rejected Status
-* 📅 Today's Applications
-* 🔗 REST APIs
+📊 Dashboard
+📝 Application Tracking
+🎯 Interview Status
+✅ Selection Tracking
+❌ Rejection Tracking
+📅 Daily Statistics
+🔗 REST APIs
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
 
-### 💰 Finance Tracker
+## 💰 Finance Tracker
 
-Full-stack financial tracking application.
+Financial management application for tracking income and expenses.
 
-**Tech Stack**
+**Stack**
 
 `Java` `Spring Boot` `React` `MySQL`
 
 **Focus**
 
-* REST APIs
-* CRUD Operations
-* Database Design
-* Backend Development
-* Frontend Integration
+⚡ REST APIs
+🗄️ Database Design
+🔄 CRUD Operations
+🔐 Backend Logic
+⚛️ React Integration
 
 </td>
 
 <td width="50%">
 
-### 🛠️ Utility Hub
+## 🛠️ Utility Hub
 
-Collection of useful utilities built as a full-stack application.
+Collection of practical utilities developed as a full-stack application.
 
-**Tech Stack**
+**Stack**
 
 `Java` `Spring Boot` `React` `MySQL`
 
 **Focus**
 
-* REST APIs
-* Backend Architecture
-* React UI
-* Database Integration
+🔗 REST APIs
+🏗️ Backend Architecture
+⚛️ React UI
+🗄️ Database Integration
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-# 🧠 Currently Improving
+# 🧩 Engineering Focus
 
 ```text
-DSA                 █████████░░
-Spring Boot         █████████░░
-Django / DRF        █████████░░
-React               ████████░░░
-SQL                 █████████░░
-System Design       ███████░░░░
-Clean Code          ████████░░░
-Generative AI       ███████░░░░
+Backend Development      ███████████████████░   95%
+REST API Development     ██████████████████░░   90%
+Java / Spring Boot       █████████████████░░░   85%
+Python / Django          █████████████████░░░   85%
+SQL / MySQL              █████████████████░░░   85%
+React                     ████████████████░░░░   80%
+Git / GitHub              █████████████████░░░   85%
+DSA                       ██████████████░░░░░░   70%
+System Design             ████████████░░░░░░░░   60%
+GenAI / LLM / RAG         ████████████░░░░░░░░   60%
 ```
 
 ---
 
-# 🎯 Career Focus
+# 🧠 Currently Learning
 
 <div align="center">
 
-### Open to opportunities in
-
-**Java Developer** • **Spring Boot Developer** • **Python Developer**
-**Django Developer** • **Backend Developer** • **Full Stack Developer**
-**Software Engineer** • **Associate Software Engineer**
-**Graduate Engineer Trainee** • **Software Engineer Trainee**
-
-### 📍 Bengaluru | Remote | Hybrid
+| Area              | Focus                                |
+| ----------------- | ------------------------------------ |
+| ☕ Java            | Advanced Java & Backend Engineering  |
+| 🌱 Spring Boot    | Production-ready APIs & Security     |
+| 🐍 Python         | Backend Development                  |
+| 🎯 Django         | REST APIs & Application Architecture |
+| ⚛️ React          | Modern Full Stack Development        |
+| 🗄️ SQL           | Query Optimization & Database Design |
+| 🧩 DSA            | Problem Solving & Algorithms         |
+| 🏗️ System Design | Scalable Application Architecture    |
+| 🤖 GenAI          | LLM Applications & RAG               |
+| 🔎 Vector Search  | Embeddings & Vector Databases        |
 
 </div>
 
 ---
 
-# 🌐 Connect With Me
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=NGamaniprasad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NGamaniprasad&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=NGamaniprasad&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NGamaniprasad&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+
+</div>
+
+---
+
+# 🎯 Career Direction
+
+<div align="center">
+
+### Currently targeting
+
+**Java Developer**
+**Spring Boot Developer**
+**Python Developer**
+**Django Developer**
+**Backend Developer**
+**Full Stack Developer**
+**Software Engineer**
+**Associate Software Engineer**
+**Graduate Engineer Trainee**
+
+<br>
+
+📍 **Bengaluru**   •   🌐 **Remote**   •   🏢 **Hybrid**
+
+</div>
+
+---
+
+# 🌐 Let's Connect
 
 <div align="center">
 
 <a href="https://prasad-full-stack-dev.netlify.app/">
-<img src="https://img.shields.io/badge/🌐_Portfolio-Visit-2ea44f?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <a href="https://github.com/NGamaniprasad">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -227,8 +348,10 @@ Generative AI       ███████░░░░
 
 <div align="center">
 
-### 💻 Build • Learn • Improve • Repeat
+### 💻 Build → 🚀 Deploy → 🧠 Learn → 🔄 Improve
 
-⭐ **Thanks for visiting my profile!**
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
 
 </div>
