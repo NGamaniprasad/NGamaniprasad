@@ -1,17 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=N.%20Gamani%20Prasad&fontSize=45&fontAlignY=35&desc=Java%20%7C%20Python%20%7C%20Full%20Stack%20Developer&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=N.%20Gamani%20Prasad&fontSize=46&fontAlignY=35&desc=Java%20%7C%20Python%20%7C%20Full%20Stack%20Developer&descAlignY=58&animation=fadeIn" width="100%"/>
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Java+%7C+Spring+Boot+Developer;Python+%7C+Django+Developer;Full+Stack+Developer;REST+API+Developer;Exploring+GenAI+%7C+LLMs+%7C+RAG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Java+%7C+Spring+Boot+Developer;Python+%7C+Django+Developer;Full+Stack+Developer;Backend+%7C+REST+API+Developer;Exploring+GenAI+%7C+LLMs+%7C+RAG" />
 
 <br><br>
 
 <a href="https://prasad-full-stack-dev.netlify.app/">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Portfolio-00C853?style=for-the-badge"/>
 </a>
-&nbsp;
+
 <a href="https://github.com/NGamaniprasad">
 <img src="https://img.shields.io/badge/GitHub-NGamaniprasad-181717?style=for-the-badge&logo=github"/>
 </a>
@@ -24,117 +22,71 @@
 
 ---
 
-# 👨‍💻 About Me
+# 👋 About Me
 
-```java
-public class GamaniPrasad {
+I'm **N. Gamani Prasad**, a Computer Science graduate and Full Stack Developer focused on building practical web applications using **Java, Spring Boot, Python, Django, React, REST APIs, and MySQL**.
 
-    String role = "Full Stack Developer";
+I enjoy building backend systems, designing REST APIs, working with databases, implementing authentication and developing complete full-stack applications.
 
-    String[] primaryStack = {
-        "Java",
-        "Spring Boot",
-        "Python",
-        "Django",
-        "React",
-        "REST APIs",
-        "MySQL"
-    };
+I'm also exploring **Machine Learning, Generative AI, LLMs, RAG, embeddings and vector databases**.
 
-    String[] interests = {
-        "Backend Development",
-        "Full Stack Development",
-        "System Design",
-        "Clean Code",
-        "Generative AI",
-        "LLMs",
-        "RAG"
-    };
+### 🔭 Currently focused on
 
-    String location = "Bengaluru, India";
-
-    String goal =
-        "Build reliable software and continuously improve.";
-
-}
-```
+* Backend development with **Java & Spring Boot**
+* Python backend development with **Django / FastAPI**
+* Full-stack development with **React**
+* REST API design and integration
+* SQL and database design
+* DSA and problem solving
+* Clean, maintainable code
+* Production-oriented application development
+* GenAI / LLM application development
 
 ---
 
-# ⚡ What I Build
+# 🛠️ Tech Stack
 
-<table>
-<tr>
-<td width="33%" align="center">
+### ☕ Java Ecosystem
 
-### ☕ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven"/>
+</p>
 
-Spring Boot
-Django
-DRF
-REST APIs
-Hibernate
-JPA
-JWT
-MySQL
+`Java 8` • `Spring Boot` • `Spring Framework` • `Spring MVC` • `Spring Data JPA` • `Hibernate` • `JDBC` • `Spring Security`
 
-</td>
+### 🐍 Python Ecosystem
 
-<td width="33%" align="center">
+<p>
+<img src="https://skillicons.dev/icons?i=python,django,fastapi"/>
+</p>
+
+`Python 3.x` • `Django` • `Django REST Framework` • `FastAPI` • `SQLAlchemy` • `Pydantic`
 
 ### ⚛️ Frontend
 
-React
-JavaScript
-HTML
-CSS
-Vite
-Axios
-Responsive UI
+<p>
+<img src="https://skillicons.dev/icons?i=react,javascript,html,css,vite"/>
+</p>
 
-</td>
+`React.js` • `JavaScript ES6+` • `HTML5` • `CSS3` • `Vite` • `Axios` • `React Router`
 
-<td width="33%" align="center">
+### 🗄️ Database & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,git,github,postman,idea,pycharm"/>
+</p>
+
+`MySQL` • `Git` • `GitHub` • `Maven` • `Postman` • `IntelliJ IDEA` • `PyCharm`
 
 ### 🤖 AI / ML
 
-Machine Learning
-Generative AI
-LLMs
-RAG
-Embeddings
-Vector Databases
-
-</td>
-</tr>
-</table>
-
----
-
-# 🛠️ Technology Arsenal
-
-### Languages
-
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring,django,fastapi,hibernate" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,vite" />
-</p>
-
-### Database & Development Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,git,github,maven,postman,idea,pycharm" />
+<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-5C2D91?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Embeddings-0078D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vector%20Databases-00A67E?style=for-the-badge"/>
 </p>
 
 ---
@@ -146,45 +98,53 @@ Vector Databases
 
 <td width="50%">
 
-## 💼 Employee Work Management System
+## 📋 Job Application Tracker
 
-Enterprise-style full-stack employee management platform.
+A clean full-stack application for managing and tracking software job applications.
 
-**Stack**
+**Tech Stack**
 
-`Python` `Django` `DRF` `React` `MySQL` `JWT`
+`React` `Vite` `Axios`
+`FastAPI` `SQLAlchemy` `MySQL` `Pydantic`
 
-**Highlights**
+**Features**
 
-🔐 JWT Authentication
-👥 Admin / Employee Roles
-📋 Task Assignment
-⏱️ Attendance & Breaks
-💰 Salary & Bonus
-🔔 Notifications
-🔒 Role-based Permissions
+* 📊 Application dashboard
+* ➕ Add applications
+* ✏️ Edit applications
+* 🗑️ Delete applications
+* 🔎 Search by company
+* 🎯 Filter by status
+* 📱 Responsive UI
+* 🔗 REST APIs
+
+<a href="https://github.com/NGamaniprasad/Job_Tracker_FastAPI">
+View Repository →
+</a>
 
 </td>
 
 <td width="50%">
 
-## 📋 Job Application Tracker
+## 💼 Employee Work Management System
 
-Full-stack application for managing and tracking job applications.
+Enterprise-style full-stack application for managing employees and workplace activities.
 
-**Stack**
+**Tech Stack**
 
-`FastAPI` `React` `MySQL` `SQLAlchemy`
+`Django` `DRF` `React`
+`MySQL` `JWT` `Axios`
 
-**Highlights**
+**Features**
 
-📊 Dashboard
-📝 Application Tracking
-🎯 Interview Status
-✅ Selection Tracking
-❌ Rejection Tracking
-📅 Daily Statistics
-🔗 REST APIs
+* 🔐 JWT Authentication
+* 👥 Admin & Employee roles
+* 📋 Task management
+* ⏱️ Attendance & breaks
+* 💰 Salary & bonus
+* 🔔 Notifications
+* 🔒 Role-based permissions
+* 📝 Task review & feedback
 
 </td>
 
@@ -196,19 +156,69 @@ Full-stack application for managing and tracking job applications.
 
 ## 💰 Finance Tracker
 
-Financial management application for tracking income and expenses.
+Full-stack application for managing personal financial activities.
 
-**Stack**
+**Tech Stack**
 
 `Java` `Spring Boot` `React` `MySQL`
 
 **Focus**
 
-⚡ REST APIs
-🗄️ Database Design
-🔄 CRUD Operations
-🔐 Backend Logic
-⚛️ React Integration
+* REST API development
+* CRUD operations
+* Database integration
+* Backend business logic
+* React frontend
+* Financial data management
+
+</td>
+
+<td width="50%">
+
+## 🎓 Learning Portal
+
+Learning management application where users can register, select courses, track learning progress and receive completion certificates.
+
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript`
+`Express.js` `MySQL`
+
+**Features**
+
+* 👤 User registration
+* 🔐 Login
+* 📚 Course selection
+* 📖 Course modules
+* 📅 Attendance tracking
+* 📈 Progress tracking
+* 🏆 Completion certificates
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 📧 Email Scraper & Lead Collector
+
+FastAPI web application for extracting email leads from comments and saving collected leads to Google Sheets.
+
+**Tech Stack**
+
+`Python` `FastAPI` `Jinja2`
+`HTML` `CSS` `Google Sheets API`
+
+**Features**
+
+* 🔐 Password-based login
+* 🌐 URL-based scraping
+* 📧 Email extraction
+* 📊 Scraping results
+* 📑 Google Sheets integration
+* 🚪 Session management
 
 </td>
 
@@ -216,18 +226,54 @@ Financial management application for tracking income and expenses.
 
 ## 🛠️ Utility Hub
 
-Collection of practical utilities developed as a full-stack application.
+Collection of practical utilities developed as a full-stack web application.
 
-**Stack**
+**Tech Stack**
 
 `Java` `Spring Boot` `React` `MySQL`
 
 **Focus**
 
-🔗 REST APIs
-🏗️ Backend Architecture
-⚛️ React UI
-🗄️ Database Integration
+* 🔗 REST APIs
+* 🏗️ Backend architecture
+* ⚛️ React UI
+* 🗄️ Database integration
+* 🔄 CRUD operations
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🏏 Cricket Hub IPL Manager
+
+Cricket-focused application for managing and exploring IPL-related information.
+
+**Focus**
+
+* Cricket data management
+* Full-stack development
+* Database integration
+* REST API concepts
+* Interactive frontend
+
+</td>
+
+<td width="50%">
+
+## 🔧 More Projects
+
+I continuously build and improve projects to strengthen my understanding of:
+
+`Backend Development`
+`REST APIs`
+`Databases`
+`Authentication`
+`Full Stack Development`
+`Software Architecture`
 
 </td>
 
@@ -236,45 +282,122 @@ Collection of practical utilities developed as a full-stack application.
 
 ---
 
-# 🧩 Engineering Focus
+# 🧠 Engineering Areas
 
-```text
-Backend Development      ███████████████████░   95%
-REST API Development     ██████████████████░░   90%
-Java / Spring Boot       █████████████████░░░   85%
-Python / Django          █████████████████░░░   85%
-SQL / MySQL              █████████████████░░░   85%
-React                     ████████████████░░░░   80%
-Git / GitHub              █████████████████░░░   85%
-DSA                       ██████████████░░░░░░   70%
-System Design             ████████████░░░░░░░░   60%
-GenAI / LLM / RAG         ████████████░░░░░░░░   60%
-```
+<table>
+<tr>
+<td align="center" width="25%">
+
+### ☕ Backend
+
+Spring Boot
+Django
+FastAPI
+REST APIs
+Hibernate
+JPA
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚛️ Frontend
+
+React
+JavaScript
+HTML
+CSS
+Vite
+Axios
+
+</td>
+
+<td align="center" width="25%">
+
+### 🗄️ Data
+
+MySQL
+SQL
+JPA
+Hibernate
+SQLAlchemy
+Database Design
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖 AI
+
+ML
+GenAI
+LLMs
+RAG
+Embeddings
+Vector DB
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🧠 Currently Learning
+# 🔐 Backend & API Experience
+
+```text
+REST API Design
+      ↓
+Request / Response Handling
+      ↓
+Business Logic
+      ↓
+Validation
+      ↓
+Authentication & Authorization
+      ↓
+Database Operations
+      ↓
+Error Handling
+      ↓
+Frontend Integration
+```
+
+I've worked with backend concepts including:
+
+* REST API development
+* CRUD operations
+* JWT authentication
+* Role-based access
+* Request validation
+* Database relationships
+* ORM-based development
+* API testing with Postman
+* Frontend/backend integration
+
+---
+
+# 📚 Currently Improving
 
 <div align="center">
 
-| Area              | Focus                                |
-| ----------------- | ------------------------------------ |
-| ☕ Java            | Advanced Java & Backend Engineering  |
-| 🌱 Spring Boot    | Production-ready APIs & Security     |
-| 🐍 Python         | Backend Development                  |
-| 🎯 Django         | REST APIs & Application Architecture |
-| ⚛️ React          | Modern Full Stack Development        |
-| 🗄️ SQL           | Query Optimization & Database Design |
-| 🧩 DSA            | Problem Solving & Algorithms         |
-| 🏗️ System Design | Scalable Application Architecture    |
-| 🤖 GenAI          | LLM Applications & RAG               |
-| 🔎 Vector Search  | Embeddings & Vector Databases        |
+| Area              | Current Focus                              |
+| ----------------- | ------------------------------------------ |
+| ☕ Java            | Advanced Java & Backend Engineering        |
+| 🌱 Spring Boot    | REST APIs, Security & Production Practices |
+| 🐍 Python         | Backend Development & APIs                 |
+| 🎯 Django         | DRF & Application Architecture             |
+| ⚛️ React          | Full Stack Application Development         |
+| 🗄️ SQL           | Queries & Database Design                  |
+| 🧩 DSA            | Algorithms & Problem Solving               |
+| 🏗️ System Design | Scalable Application Architecture          |
+| 🤖 GenAI          | LLM Applications & RAG                     |
+| 🔎 Vector Search  | Embeddings & Vector Databases              |
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Statistics
 
 <div align="center">
 
@@ -296,7 +419,7 @@ GenAI / LLM / RAG         ████████████░░░░░░
 
 ---
 
-# 📈 Contribution Activity
+# 📈 Contribution Graph
 
 <div align="center">
 
@@ -306,21 +429,19 @@ GenAI / LLM / RAG         ████████████░░░░░░
 
 ---
 
-# 🎯 Career Direction
+# 🎯 Career Focus
 
 <div align="center">
 
-### Currently targeting
+### Open to Software Engineering Opportunities
 
-**Java Developer**
-**Spring Boot Developer**
-**Python Developer**
-**Django Developer**
-**Backend Developer**
-**Full Stack Developer**
-**Software Engineer**
-**Associate Software Engineer**
-**Graduate Engineer Trainee**
+**Java Developer** • **Spring Boot Developer** • **Python Developer**
+
+**Django Developer** • **Backend Developer** • **Full Stack Developer**
+
+**Software Engineer** • **Associate Software Engineer**
+
+**Graduate Engineer Trainee** • **Software Engineer Trainee**
 
 <br>
 
@@ -330,16 +451,16 @@ GenAI / LLM / RAG         ████████████░░░░░░
 
 ---
 
-# 🌐 Let's Connect
+# 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://prasad-full-stack-dev.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Portfolio-00C853?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/NGamaniprasad">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-NGamaniprasad-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </div>
