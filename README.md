@@ -28,25 +28,25 @@ I'm **N. Gamani Prasad**, a Computer Science graduate and Full Stack Developer f
 
 I enjoy building backend systems, designing REST APIs, working with databases, implementing authentication and developing complete full-stack applications.
 
-I'm also exploring **Machine Learning, Generative AI, LLMs, RAG, embeddings and vector databases**.
+I'm also exploring **Machine Learning, Generative AI, LLMs, RAG, embeddings, and vector databases**.
 
-### 🔭 Currently focused on
+### 🔭 Currently Focused On
 
-* Backend development with **Java & Spring Boot**
-* Python backend development with **Django / FastAPI**
-* Full-stack development with **React**
-* REST API design and integration
-* SQL and database design
-* DSA and problem solving
-* Clean, maintainable code
-* Production-oriented application development
-* GenAI / LLM application development
+* ☕ Java & Spring Boot backend development
+* 🐍 Python & Django backend development
+* ⚛️ React full-stack development
+* 🔗 REST API design and integration
+* 🗄️ SQL and database design
+* 🧩 Data Structures & Algorithms
+* 🏗️ System design fundamentals
+* 🧹 Clean and maintainable code
+* 🤖 Generative AI and LLM applications
 
 ---
 
 # 🛠️ Tech Stack
 
-### ☕ Java Ecosystem
+## ☕ Java Ecosystem
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven"/>
@@ -54,7 +54,9 @@ I'm also exploring **Machine Learning, Generative AI, LLMs, RAG, embeddings and 
 
 `Java 8` • `Spring Boot` • `Spring Framework` • `Spring MVC` • `Spring Data JPA` • `Hibernate` • `JDBC` • `Spring Security`
 
-### 🐍 Python Ecosystem
+---
+
+## 🐍 Python Ecosystem
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,django,fastapi"/>
@@ -62,7 +64,9 @@ I'm also exploring **Machine Learning, Generative AI, LLMs, RAG, embeddings and 
 
 `Python 3.x` • `Django` • `Django REST Framework` • `FastAPI` • `SQLAlchemy` • `Pydantic`
 
-### ⚛️ Frontend
+---
+
+## ⚛️ Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,javascript,html,css,vite"/>
@@ -70,7 +74,9 @@ I'm also exploring **Machine Learning, Generative AI, LLMs, RAG, embeddings and 
 
 `React.js` • `JavaScript ES6+` • `HTML5` • `CSS3` • `Vite` • `Axios` • `React Router`
 
-### 🗄️ Database & Tools
+---
+
+## 🗄️ Database & Development Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,git,github,postman,idea,pycharm"/>
@@ -78,15 +84,24 @@ I'm also exploring **Machine Learning, Generative AI, LLMs, RAG, embeddings and 
 
 `MySQL` • `Git` • `GitHub` • `Maven` • `Postman` • `IntelliJ IDEA` • `PyCharm`
 
-### 🤖 AI / ML
+---
+
+## 🤖 AI / Machine Learning
 
 <p>
+
 <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/RAG-5C2D91?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Embeddings-0078D4?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Vector%20Databases-00A67E?style=for-the-badge"/>
+
 </p>
 
 ---
@@ -98,29 +113,26 @@ I'm also exploring **Machine Learning, Generative AI, LLMs, RAG, embeddings and 
 
 <td width="50%">
 
-## 📋 Job Application Tracker
+## 💰 Finance Tracker
 
-A clean full-stack application for managing and tracking software job applications.
+A full-stack personal finance management system for recording, categorizing, and analyzing financial activity.
 
-**Tech Stack**
+### 🛠️ Tech Stack
 
-`React` `Vite` `Axios`
-`FastAPI` `SQLAlchemy` `MySQL` `Pydantic`
+`Java` `Spring Boot` `Spring Security` `JWT`
 
-**Features**
+`Spring Data JPA` `MySQL` `React.js`
 
-* 📊 Application dashboard
-* ➕ Add applications
-* ✏️ Edit applications
-* 🗑️ Delete applications
-* 🔎 Search by company
-* 🎯 Filter by status
-* 📱 Responsive UI
-* 🔗 REST APIs
+### ✨ Highlights
 
-<a href="https://github.com/NGamaniprasad/Job_Tracker_FastAPI">
-View Repository →
-</a>
+* 💵 Record and categorize income and expenses
+* 📊 Interactive financial dashboard
+* 🎯 Budget management and spending tracking
+* 📈 Financial activity analysis
+* 👤 User profile management
+* 🔐 JWT-based authentication
+* 🛡️ Role-based user and admin workflows
+* 🚦 User activation/deactivation
 
 </td>
 
@@ -128,117 +140,82 @@ View Repository →
 
 ## 💼 Employee Work Management System
 
-Enterprise-style full-stack application for managing employees and workplace activities.
+Full-stack employee management platform supporting Admin and Employee workflows.
 
-**Tech Stack**
+### 🛠️ Tech Stack
 
-`Django` `DRF` `React`
-`MySQL` `JWT` `Axios`
+`Python` `Django` `Django REST Framework`
 
-**Features**
+`React.js` `MySQL` `JWT`
 
-* 🔐 JWT Authentication
-* 👥 Admin & Employee roles
+### ✨ Highlights
+
+* 🔐 JWT authentication
+* 👥 Role-based access control
+* 🛡️ Protected routes
+* 🔗 RESTful APIs
+* 👨‍💼 Employee management
 * 📋 Task management
-* ⏱️ Attendance & breaks
-* 💰 Salary & bonus
-* 🔔 Notifications
-* 🔒 Role-based permissions
-* 📝 Task review & feedback
+* ⏱️ Attendance management
+* 💰 Salary management
+* 🔔 Notification module
+* 📊 Reporting module
 
 </td>
 
 </tr>
 
 <tr>
-
-<td width="50%">
-
-## 💰 Finance Tracker
-
-Full-stack application for managing personal financial activities.
-
-**Tech Stack**
-
-`Java` `Spring Boot` `React` `MySQL`
-
-**Focus**
-
-* REST API development
-* CRUD operations
-* Database integration
-* Backend business logic
-* React frontend
-* Financial data management
-
-</td>
-
-<td width="50%">
-
-## 🎓 Learning Portal
-
-Learning management application where users can register, select courses, track learning progress and receive completion certificates.
-
-**Tech Stack**
-
-`HTML` `CSS` `JavaScript`
-`Express.js` `MySQL`
-
-**Features**
-
-* 👤 User registration
-* 🔐 Login
-* 📚 Course selection
-* 📖 Course modules
-* 📅 Attendance tracking
-* 📈 Progress tracking
-* 🏆 Completion certificates
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## 📧 Email Scraper & Lead Collector
-
-FastAPI web application for extracting email leads from comments and saving collected leads to Google Sheets.
-
-**Tech Stack**
-
-`Python` `FastAPI` `Jinja2`
-`HTML` `CSS` `Google Sheets API`
-
-**Features**
-
-* 🔐 Password-based login
-* 🌐 URL-based scraping
-* 📧 Email extraction
-* 📊 Scraping results
-* 📑 Google Sheets integration
-* 🚪 Session management
-
-</td>
 
 <td width="50%">
 
 ## 🛠️ Utility Hub
 
-Collection of practical utilities developed as a full-stack web application.
+Centralized platform bringing everyday utilities into a single application.
 
-**Tech Stack**
+### 🛠️ Tech Stack
 
-`Java` `Spring Boot` `React` `MySQL`
+`Java` `Spring Boot` `Spring Security` `JWT`
 
-**Focus**
+`Spring Data JPA` `MySQL` `React.js`
 
-* 🔗 REST APIs
-* 🏗️ Backend architecture
-* ⚛️ React UI
-* 🗄️ Database integration
-* 🔄 CRUD operations
+### ✨ Highlights
+
+* 🧮 Calculation utilities
+* 🎂 Age calculation
+* 🔤 Text conversion tools
+* 📊 User dashboards
+* ⭐ Favorite tools
+* 📈 User activity tracking
+* 🔐 Secure authentication
+* 🛡️ Role-based dashboards
+* 🗂️ Category-wise tool management
+
+</td>
+
+<td width="50%">
+
+## 🏏 Cricket Hub IPL Manager
+
+Centralized IPL platform for exploring and managing cricket tournament information.
+
+### 🛠️ Tech Stack
+
+`Python` `Django` `Django REST Framework`
+
+`React.js` `JavaScript` `MySQL` `JWT`
+
+### ✨ Highlights
+
+* 🏏 IPL team management
+* 👤 Player information
+* 📅 Fixtures and matches
+* 📊 Player and match statistics
+* 🏆 Points tables
+* 📚 Tournament history
+* 🔐 User authentication
+* 👑 Admin workflows
+* 🛡️ Role-based permissions
 
 </td>
 
@@ -248,17 +225,85 @@ Collection of practical utilities developed as a full-stack web application.
 
 <td width="50%">
 
-## 🏏 Cricket Hub IPL Manager
+## 📋 Job Application Tracker
 
-Cricket-focused application for managing and exploring IPL-related information.
+A clean full-stack application for tracking software job applications.
 
-**Focus**
+### 🛠️ Tech Stack
 
-* Cricket data management
-* Full-stack development
-* Database integration
-* REST API concepts
-* Interactive frontend
+`React.js` `Vite` `Axios` `React Router`
+
+`Python` `FastAPI` `SQLAlchemy` `MySQL` `Pydantic`
+
+### ✨ Highlights
+
+* 📊 Dashboard with application statistics
+* ➕ Add applications
+* ✏️ Edit applications
+* 🗑️ Delete applications
+* 🔎 Search by company name
+* 🎯 Filter by status
+* 📱 Responsive UI
+* 🔗 REST APIs
+
+<a href="https://github.com/NGamaniprasad/Job_Tracker_FastAPI">
+
+🔗 **View Repository →**
+
+</a>
+
+</td>
+
+<td width="50%">
+
+## 📧 Email Scraper & Lead Collector
+
+FastAPI web application for extracting email leads from URL-based comments and storing collected data in Google Sheets.
+
+### 🛠️ Tech Stack
+
+`Python` `FastAPI` `Jinja2`
+
+`HTML` `CSS` `Google Sheets API`
+
+### ✨ Highlights
+
+* 🔐 Password-based login
+* 🌐 URL-based comment scraping
+* 📧 Email lead extraction
+* 📊 Scraping results
+* 📑 Google Sheets integration
+* 🔒 Session management
+* 🚪 Logout functionality
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🎓 Learning Portal
+
+Learning management platform for courses, modules, attendance, progress tracking, and completion certificates.
+
+### 🛠️ Tech Stack
+
+`HTML` `CSS` `JavaScript`
+
+`Express.js` `MySQL`
+
+### ✨ Highlights
+
+* 👤 User registration
+* 🔐 User login
+* 📚 Course selection
+* 📖 Course modules
+* 📅 Attendance tracking
+* 📈 Learning progress
+* 📝 Assignments and assessments
+* 🏆 Completion certificates
 
 </td>
 
@@ -266,14 +311,15 @@ Cricket-focused application for managing and exploring IPL-related information.
 
 ## 🔧 More Projects
 
-I continuously build and improve projects to strengthen my understanding of:
+Continuously building practical applications to strengthen:
 
-`Backend Development`
-`REST APIs`
-`Databases`
-`Authentication`
-`Full Stack Development`
-`Software Architecture`
+`Java` • `Spring Boot` • `Python` • `Django`
+
+`React` • `REST APIs` • `MySQL`
+
+`Authentication` • `Database Design`
+
+`Full Stack Development` • `Backend Engineering`
 
 </td>
 
@@ -282,10 +328,11 @@ I continuously build and improve projects to strengthen my understanding of:
 
 ---
 
-# 🧠 Engineering Areas
+# 🧩 Engineering Skills
 
 <table>
 <tr>
+
 <td align="center" width="25%">
 
 ### ☕ Backend
@@ -296,6 +343,8 @@ FastAPI
 REST APIs
 Hibernate
 JPA
+JWT
+Spring Security
 
 </td>
 
@@ -309,6 +358,7 @@ HTML
 CSS
 Vite
 Axios
+React Router
 
 </td>
 
@@ -329,14 +379,15 @@ Database Design
 
 ### 🤖 AI
 
-ML
+Machine Learning
 GenAI
 LLMs
 RAG
 Embeddings
-Vector DB
+Vector Databases
 
 </td>
+
 </tr>
 </table>
 
@@ -345,34 +396,42 @@ Vector DB
 # 🔐 Backend & API Experience
 
 ```text
-REST API Design
-      ↓
-Request / Response Handling
-      ↓
-Business Logic
-      ↓
-Validation
-      ↓
-Authentication & Authorization
-      ↓
-Database Operations
-      ↓
-Error Handling
-      ↓
-Frontend Integration
+                    REST API Development
+                            │
+                            ▼
+                 Request / Response Handling
+                            │
+                            ▼
+                      Validation
+                            │
+                            ▼
+                    Business Logic
+                            │
+                            ▼
+              Authentication & Authorization
+                            │
+                            ▼
+                    Database Operations
+                            │
+                            ▼
+                    Error Handling
+                            │
+                            ▼
+                 Frontend Integration
 ```
 
-I've worked with backend concepts including:
+### Experience With
 
-* REST API development
-* CRUD operations
-* JWT authentication
-* Role-based access
-* Request validation
-* Database relationships
-* ORM-based development
-* API testing with Postman
-* Frontend/backend integration
+* 🔗 RESTful API development
+* 🔄 CRUD operations
+* 🔐 JWT authentication
+* 🛡️ Role-based access control
+* ✅ Request and data validation
+* 🗄️ Relational database design
+* 🔄 ORM-based development
+* 🧪 API testing with Postman
+* ⚛️ Frontend/backend integration
+* 🔒 Protected routes and authorization
 
 ---
 
@@ -380,7 +439,7 @@ I've worked with backend concepts including:
 
 <div align="center">
 
-| Area              | Current Focus                              |
+| Area              | Focus                                      |
 | ----------------- | ------------------------------------------ |
 | ☕ Java            | Advanced Java & Backend Engineering        |
 | 🌱 Spring Boot    | REST APIs, Security & Production Practices |
@@ -397,51 +456,22 @@ I've worked with backend concepts including:
 
 ---
 
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=NGamaniprasad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NGamaniprasad&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=NGamaniprasad&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NGamaniprasad&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-
-</div>
-
----
-
 # 🎯 Career Focus
 
 <div align="center">
 
 ### Open to Software Engineering Opportunities
 
-**Java Developer** • **Spring Boot Developer** • **Python Developer**
-
-**Django Developer** • **Backend Developer** • **Full Stack Developer**
-
-**Software Engineer** • **Associate Software Engineer**
-
-**Graduate Engineer Trainee** • **Software Engineer Trainee**
+**Java Developer**
+**Spring Boot Developer**
+**Python Developer**
+**Django Developer**
+**Backend Developer**
+**Full Stack Developer**
+**Software Engineer**
+**Associate Software Engineer**
+**Graduate Engineer Trainee**
+**Software Engineer Trainee**
 
 <br>
 
@@ -465,7 +495,7 @@ I've worked with backend concepts including:
 
 </div>
 
----
+<br>
 
 <div align="center">
 
