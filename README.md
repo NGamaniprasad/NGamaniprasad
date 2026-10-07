@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=N.%20Gamani%20Prasad&fontSize=46&fontAlignY=35&desc=Java%20%7C%20Python%20%7C%20Full%20Stack%20Developer&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=N.%20Gamini%20Prasad&fontSize=46&fontAlignY=35&desc=Java%20%7C%20Python%20%7C%20Full%20Stack%20Developer&descAlignY=58&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Java+%7C+Spring+Boot+Developer;Python+%7C+Django+Developer;Full+Stack+Developer;Backend+%7C+REST+API+Developer;Exploring+GenAI+%7C+LLMs+%7C+RAG" />
 
