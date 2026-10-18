@@ -62,7 +62,7 @@ I'm also exploring **Machine Learning, Generative AI, LLMs, RAG, embeddings, and
 <img src="https://skillicons.dev/icons?i=python,django,fastapi"/>
 </p>
 
-`Python 3.x` • `Django` • `Django REST Framework` • `FastAPI` • `SQLAlchemy` • `Pydantic`
+`Python 3.x` • `Django` • `Django REST Framework` • `FastAPI` 
 
 ---
 
